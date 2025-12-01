@@ -41,7 +41,7 @@ We built three interactive dashboards using Tableau:
    - Total like count effect on average price
 
 View all dashboards here:  
-https://rsm-msba-25-26.github.io/vestaire-mgta452/dashboards.md
+https://rsm-msba-25-26.github.io/vestaire-mgta452/dashboards.html
 
 ---
 
