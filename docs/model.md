@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-[Home](index.md) · [Dashboards](dashboards.md) · [Model](model.md)
+[Home](index.md) · [Dashboards](dashboards.md) · [Model](model.md) · [EDA](eda.md) 
 
 # Predictive Modeling
 
