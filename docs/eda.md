@@ -2,7 +2,7 @@
 
 # Exploratory Data Analysis
 
-This section summarzies the descriptive analytics perfromed before modeling
+This section summarizes the descriptive analytics performed before modeling
 
 Key to our cleaning and exploration are the following:
 - cleaning missing values
