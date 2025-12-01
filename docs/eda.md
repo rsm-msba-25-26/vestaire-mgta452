@@ -1,3 +1,5 @@
+[Home](index.md) · [Dashboards](dashboards.html) · [Model](model.md) · [EDA](eda.md) 
+
 # Exploratory Data Analysis
 
 This section summarzies the descriptive analytics perfromed before modeling
