@@ -29,4 +29,4 @@ Our goal was to understand and explore what drives price in the secondhand luxur
 - Our Random Forest model predicts resale price with solid accuracy and highlights brand/condition as the top predictors.
 
 
-Explore our dashboards and mdel details using the links above!
+Explore our dashboards and model details using the links above!
