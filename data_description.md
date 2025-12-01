@@ -1,9 +1,9 @@
-**Introduction**
+# Introduction
 The secondhand luxury fashion market has grown rapidly over the past decade, driven by consumer interest in affordability, sustainability, and circular fashion practices. Platform-based marketplaces such as Vestiaire Collective provide rich data for understanding how item characteristics, brand equity, and seller reputation influence resale value.
 
 This project analyzes a large dataset of secondhand fashion listings from Vestiaire Collective to uncover the key drivers of resale price, identify trends across brands and categories, and build predictive models that estimate an item’s market value based on its attributes. Our goal is to provide data-driven insights into how different product, seller, and platform features impact resale performance.
 
-**Dataset Overview**
+## Dataset Overview
 The dataset contains approximately 900,000 listings from Vestiaire Collective, each representing a secondhand fashion item offered for resale. Each row corresponds to one product listing along with its associated seller and marketplace attributes.
 
 The data includes detailed information about the item (brand, category, condition, materials), its pricing structure, its popularity among users, and descriptive statistics about the seller. The dataset provides enough depth to examine relationships between product characteristics and resale prices, as well as to build models that predict pricing outcomes.
@@ -11,7 +11,7 @@ The data includes detailed information about the item (brand, category, conditio
 It was scraped using Python and the Hrequests Library. The CSV file contains approximately 900k rows and 36 columns.
 
 
-**Key Variables**
+### Key Variables**
 Below is a breakdown of the most important variable groups included in the dataset that we utilize for our analysis and visualizations.
 
 A. Product Characteristics
@@ -84,7 +84,7 @@ Understanding seller behavior and reputation is key in resale markets. Seller-le
 
 These features allow us to analyze whether seller credibility affects resale prices.
 
-4. Limitations
+## Limitations
 
 While the dataset is rich, several constraints must be noted:
 
@@ -98,7 +98,7 @@ Temporal data is limited, reducing the ability to analyze time-based trends.
 
 Despite these limitations, the dataset is sufficiently large and diverse to support robust modeling and market analysis.
 
-5. Purpose of This Project
+## Purpose of This Project
 
 Using this dataset, the project aims to:
 
