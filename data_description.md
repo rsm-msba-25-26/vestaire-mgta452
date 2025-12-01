@@ -11,10 +11,10 @@ The data includes detailed information about the item (brand, category, conditio
 It was scraped using Python and the Hrequests Library. The CSV file contains approximately 900k rows and 36 columns.
 
 
-### Key Variables**
+### Key Variables
 Below is a breakdown of the most important variable groups included in the dataset that we utilize for our analysis and visualizations.
 
-A. Product Characteristics
+**A. Product Characteristics**
 
 These describe intrinsic attributes of the fashion item:
 
@@ -36,7 +36,7 @@ These describe intrinsic attributes of the fashion item:
 
 These features are central for resale pricing analysis because they represent core product attributes visible to buyers.
 
-B. Pricing & Financial Structure
+**B. Pricing & Financial Structure**
 
 Vestiaire uses a combination of seller input, platform fees, and shipping rules to determine how much a buyer pays and how much a seller receives.
 
@@ -54,7 +54,7 @@ The dataset includes:
 
 These fields help us study the economics of resale and how platform costs influence item prices.
 
-C. Popularity & Buyer Interest
+**C. Popularity & Buyer Interest**
 
 These variables capture marketplace demand signals:
 
@@ -66,7 +66,7 @@ These variables capture marketplace demand signals:
 
 Engagement metrics such as likes can help explain trends in popularity and demand.
 
-D. Seller Information
+**D. Seller Information**
 
 Understanding seller behavior and reputation is key in resale markets. Seller-level variables include:
 
