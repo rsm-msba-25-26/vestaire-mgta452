@@ -16,7 +16,7 @@ This project analyzes **900,000+ secondhand luxury fashion listings** from Vesti
 By combining Exploratory Data Analysis (EDA), visualization, and predictive modeling, our goal is to uncover key drivers of price in the secondhand luxury market.
 
 **Live GitHub Pages site:**  
-https://rsm-msba-25-26.github.io/vestiare-mgta452/
+https://rsm-msba-25-26.github.io/vestiaire-mgta452/
 
 ---
 
