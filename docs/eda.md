@@ -14,6 +14,17 @@ Key to our cleaning and exploration are the following:
 - sold and available products
 - top brands by like count
 
-Full EDA Script:
-[EDA Script](https://rsm-msba-25-26.github.io/vestiaire-mgta452/code/eda_notebook.html)
+## Full EDA Notebook (Embedded)
 
+<div class="notebook-container">
+  <iframe 
+    src="https://nbviewer.org/github/rsm-msba-25-26/vestiaire-mgta452/blob/main/code/eda.ipynb"
+    width="100%"
+    height="900"
+    style="border:none;">
+  </iframe>
+</div>
+
+## Code File (GitHub)
+
+- [EDA Notebook (.ipynb)](https://github.com/rsm-msba-25-26/vestiaire-mgta452/blob/main/code/eda.ipynb)
