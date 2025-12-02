@@ -15,6 +15,5 @@ Key to our cleaning and exploration are the following:
 - top brands by like count
 
 Full EDA Script:
-[EDA Script](code/eda_notebook.html)
-
+[EDA Script](https://rsm-msba-25-26.github.io/vestiaire-mgta452/code/eda_notebook.html)
 
