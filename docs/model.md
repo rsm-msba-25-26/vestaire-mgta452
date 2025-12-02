@@ -5,7 +5,7 @@
 # Predictive Modeling
 
 ## Code Files
-- [Predictive Modeling Script](https://github.com/rsm-msba-25-26/vestaire-mgta452/blob/main/code/predictive_modeling.html)
+- [Predictive Modeling Script](code/predictive_modeling.html)
   
 ## Predictions vs Actual (Random Forest)
 <img src="img/rf_predicted_vs_actual.png" width="600">
