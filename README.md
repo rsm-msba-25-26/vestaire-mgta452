@@ -41,9 +41,6 @@ We developed several interactive dashboards using Tableau Public to visualize pa
 - Average likes by country  
 - Geographic patterns in resale behavior  
 
-**View Interactive Dashboards:**  
-https://rsm-msba-25-26.github.io/vestiaire-mgta452/dashboards.html
-
 ---
 
 ## Predictive Modeling
@@ -66,8 +63,6 @@ We build machine learning models to predict **log(price_usd)** based on:
 
 The **Random Forest model** achieved the strongest predictive performance and provided interpretable **feature importance** rankings, highlighting key contributors to resale price.
 
-**Full Modeling Results:**  
-https://rsm-msba-25-26.github.io/vestiaire-mgta452/model.html
 
 ---
 
