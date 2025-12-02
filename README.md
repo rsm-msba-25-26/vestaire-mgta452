@@ -71,5 +71,3 @@ https://rsm-msba-25-26.github.io/vestiaire-mgta452/model.html
 
 ---
 
-## 📂 Repository Structure
-
