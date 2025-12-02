@@ -5,7 +5,21 @@
 # Predictive Modeling
 
 ## Code Files
-- [Predictive Modeling Script](https://github.com/rsm-msba-25-26/vestiaire-mgta452/blob/main/code/predictive_modeling.html)
+## Full Modeling Notebook (Embedded)
+
+<div class="notebook-container">
+  <iframe 
+    src="https://nbviewer.org/github/rsm-msba-25-26/vestiaire-mgta452/blob/main/code/predictive_modeling.ipynb"
+    width="100%"
+    height="900"
+    style="border:none;">
+  </iframe>
+</div>
+
+## Code File (GitHub)
+
+- [Predictive Modeling Notebook (.ipynb)](https://github.com/rsm-msba-25-26/vestiaire-mgta452/blob/main/code/predictive_modeling.ipynb)
+
   
 ## Predictions vs Actual (Random Forest)
 <img src="img/rf_predicted_vs_actual.png" width="600">
