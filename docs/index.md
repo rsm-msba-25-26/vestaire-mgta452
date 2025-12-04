@@ -23,6 +23,20 @@ This project explores the secondhand luxury fashion market using ~900,000 listin
 
 Our goal was to understand and explore what drives price in the secondhand luxury market through interactive dashboards and predictive modeling. 
 
+## Project Overview Presentation
+
+<div class="slides-container">
+  <iframe 
+    src="https://docs.google.com/presentation/d/1MoyHvnMXWRoafonP4lbNttdv_WIaHqwaPLyanfvl8y4/embed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    width="960"
+    height="569"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
+
 
 ## Dataset Overview
 The dataset contains approximately 900,000 listings from Vestiaire Collective, each representing a secondhand fashion item offered for resale. Each row corresponds to one product listing along with its associated seller and marketplace attributes.
